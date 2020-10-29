@@ -64,6 +64,7 @@ var quick_list_preinstall = {
         img: "https://cdn.jsdelivr.net/gh/wjxm/search/icon/bilibili.png",
         explain: "哔哩哔哩 (゜-゜)つロ 干杯~",
     },
+    
     '2': {
         title: "GitHub",
         url: "https://github.com/",
@@ -83,6 +84,12 @@ var quick_list_preinstall = {
         explain: "Steam",
     },
     '5': {
+        title: "scp基金会",
+        url: "http://scp-wiki-cn.wikidot.com/",
+        img: "https://cdn.jsdelivr.net/gh/wjxm/search/icon/scp.png",
+        explain: "控制，收容，保护",
+    },
+    '6': {
         title: "scp基金会",
         url: "http://scp-wiki-cn.wikidot.com/",
         img: "https://cdn.jsdelivr.net/gh/wjxm/search/icon/scp.png",
